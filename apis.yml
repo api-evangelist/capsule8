@@ -9,6 +9,17 @@ description: 'Capsule8 was a New York-based cybersecurity company (founded 2016)
   Capsule8 developer API, portal, or documentation remains live. This profile was surfaced as a Bessemer
   Venture Partners portfolio company and is retained as an acquired-company record.'
 url: https://raw.githubusercontent.com/api-evangelist/capsule8/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
