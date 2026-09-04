@@ -31,6 +31,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://capsule8.com/', status: 301, note: 'declared website redirects to https://www.sophos.com/en-us/public-cloud — a different registrable domain (capsule8.com -> sophos.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://avatars.githubusercontent.com/u/22600059?v=4
 x-type: company
 x-source: vc-portfolio
