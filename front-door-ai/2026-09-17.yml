@@ -1,0 +1,32 @@
+# Front Door AI Index — capsule8 — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: capsule8
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: capsule8.com
+  final_host: www.sophos.com
+  ownership: own
+  owner: capsule8
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 35
+  host_score: 35
+  density: 18.93
+  words: 1849
+  tiers:
+    agentic: 8
+    core: 27
+    model: 0
+  ambiguous: 10
+  top_terms:
+    AI: 24
+    intelligence: 9
+    agentic: 6
+    machine learning: 2
+    AI agent: 1
+    agent: 1
+    copilot: 1
+    deep learning: 1
